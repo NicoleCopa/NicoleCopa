@@ -1,4 +1,4 @@
-![GithubNicole](https://user-images.githubusercontent.com/67641333/188508951-d434aca9-f193-4a63-9f2f-fa64fe49ec23.png)
+![GithubNicole (1)](https://user-images.githubusercontent.com/67641333/188510683-4e3668a9-314f-4012-9bce-9b8f4269b3fd.png)
 <h1 align="center">Hi 👋, I'm Nicole Copa</h1>
 <h3 align="center">IT Student in UMET, Argentina</h3>
 
