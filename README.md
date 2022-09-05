@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolecopa&label=Profile%20views&color=0e75b6&style=flat" alt="nicolecopa" /> </p>
 
-- 🌱 I’m currently learning **JAVA, Python, SQL**
+- 🌱 I’m currently learning **Testin QA, JAVA, Python, SQL**
 
 - 📫 How to reach me **nicoleeemilcecopa@gmail.com**
 
