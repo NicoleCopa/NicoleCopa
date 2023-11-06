@@ -37,16 +37,3 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/nicolecopa/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nicolecopa/nicolecopa/output/snake.svg" alt="Snake animation" />
-
-###
